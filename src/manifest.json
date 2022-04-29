@@ -1,0 +1,9 @@
+{
+  "name": "chrome-ext",
+  "version": "0.1",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "js/bg.js"
+  },
+  "action": {}
+}
